@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css?family=Mukta);body,html{margin:0;background-color:#526a96}.container{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center;height:100vh}#editor{background-color:#94c9a9;height:35vh;margin:10px}#editor,#preview{border-radius:5px;width:90vw;padding:5px}#preview{background-color:#c6ecae;height:55vh;overflow:auto;margin:5px;font-family:Mukta,sans-serif}
+/*# sourceMappingURL=main.12652b81.chunk.css.map */
