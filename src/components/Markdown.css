@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Mukta");
+
+#editor {
+  background-color: #94c9a9;
+  border-radius: 5px;
+  height: 35vh;
+  width: 90vw;
+  margin: 10px;
+  padding: 5px;
+}
+#preview {
+  background-color: #c6ecae;
+  border-radius: 5px;
+  height: 55vh;
+  width: 90vw;
+  overflow: auto;
+  padding: 5px;
+  margin: 5px;
+  font-family: "Mukta", sans-serif;
+}
