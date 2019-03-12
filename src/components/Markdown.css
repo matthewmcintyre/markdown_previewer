@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Mukta");
 
 #editor {
-  background-color: #94c9a9;
+  background-color: #d9e5d6;
   border-radius: 5px;
   height: 35vh;
   width: 90vw;
@@ -9,7 +9,7 @@
   padding: 5px;
 }
 #preview {
-  background-color: #c6ecae;
+  background-color: #eddea4;
   border-radius: 5px;
   height: 55vh;
   width: 90vw;
@@ -17,4 +17,15 @@
   padding: 5px;
   margin: 5px;
   font-family: "Mukta", sans-serif;
+}
+@media only screen and (min-width: 1200px) {
+  #editor {
+    height: 90vh;
+    width: 45vw;
+  }
+  #preview {
+    height: 90vh;
+    width: 45vw;
+    margin: 10px;
+  }
 }
